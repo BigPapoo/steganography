@@ -1,3 +1,8 @@
+# Fork
+
+This is a fork from 7thSamurai/steganography for educational purpose only.
+Target audience: IUT Lannion - BUT Informatique 2A
+
 # Image Steganography Tool
 
 Simple C++ **Encryption** and **Steganography** tool that uses Password-Protected-Encryption to secure a file's contents, and then proceeds to embed it 
